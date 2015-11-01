@@ -1,0 +1,373 @@
+commit 2421e102985d8c173f2da8751c17e88f5edc47e8
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 30 12:38:40 2015 -0500
+
+    Added tests and removed unnecessary method.
+
+commit 27d0fafcc289cef02e69378d6001d541389544fb
+Merge: e241f29 d2a79c4
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 08:06:22 2015 -0500
+
+    merged with new_dev branch
+
+commit d2a79c4e267537713450a61f7c704a2441df4a7d
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 08:04:35 2015 -0500
+
+    saved all files to make git think I changed them.
+
+commit e241f29c1cd00ebfb123fc5c56145d66c7ef6822
+Merge: 27ae7d1 1ae21c2
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:55:28 2015 -0500
+
+    Merge branch 'new_dev'
+    this is necessary
+
+commit 27ae7d1d28ad9f4d15fc6babf95027334fefa634
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:53:44 2015 -0500
+
+    removed files
+
+commit 1ae21c285647f163df06b3edff44be3874d58d07
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:50:34 2015 -0500
+
+    added log
+
+commit 930a7c9bc29a011f6198fd6f06c951eca77c4341
+Merge: 3740740 cf22594
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:42:32 2015 -0500
+
+    being forced to commit
+
+commit cf225948759ab9348dd8a9da22cdb899d9e29efc
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:24:13 2015 -0500
+
+    updated documentation
+
+commit 12e1bebe84263c8da53c4358b36d3f60b35fae77
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 07:12:03 2015 -0500
+
+    rmse 0.98
+
+commit bdee76f12474b19af7be6e01cc76a0868ba5b6fc
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 05:36:41 2015 -0500
+
+    fixed compilation error
+
+commit 6d12370f4e5ebaa981258e2e9bfb1c41d1312171
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 05:32:56 2015 -0500
+
+    rmse of 1.00
+
+commit 25c24456b537ef3f40b9b5f586fb0700f4400595
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 05:13:41 2015 -0500
+
+    working on estimation algorithm
+
+commit 4b185d19d2e083ee271211d820972dea2807cadd
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 03:28:44 2015 -0500
+
+    ready to predict rating
+
+commit 81ede9dbb700fdd24123286cdce076e7f99d01cc
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 03:13:20 2015 -0500
+
+    modified tests
+
+commit 9bcc7021b1f139524158bf1b1acf48be06e937b1
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 03:04:46 2015 -0500
+
+    added more tests
+
+commit 42d15680dbb583fb5e996597d626f3e899c5084f
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 02:29:10 2015 -0500
+
+    updated netflix_eval
+
+commit 68db9ec44a666fd1911db78a58671611e11b0af8
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 02:04:26 2015 -0500
+
+    added more tests.
+
+commit 716884a89521582b61e4d6be35bab328d6613c7d
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 01:38:12 2015 -0500
+
+    added netflix_read
+
+commit 4e5499277a66eebe5b4c392071bbff8b69dce9ef
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 30 01:02:24 2015 -0500
+
+    ready to do netflix_read
+
+commit b4ecc3c8c84975ad72c0d8ee4594058dc3aae48b
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 29 19:48:58 2015 -0500
+
+    added rmse
+
+commit 24c71f5128437b24cd4cf4b58f3e1da7c499ce50
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 29 19:38:41 2015 -0500
+
+    ready for changes
+
+commit 37407405b72cb4d37f64ab4c891469a3c22ef8a0
+Author: marklaver <crusherven@yahoo.com>
+Date:   Mon Jun 29 18:55:21 2015 -0500
+
+    No progress, included comments
+
+commit 295822daef372d77219dee3ed3d378c28d9f97c2
+Author: marklaver <crusherven@yahoo.com>
+Date:   Mon Jun 29 18:31:51 2015 -0500
+
+    Fixed formatting error in input file
+
+commit ea3ded8145436fb54c90d6bd339e3244aeb64270
+Author: Zachary Goodman <zjg95@users.noreply.github.com>
+Date:   Mon Jun 29 17:07:05 2015 -0500
+
+    Removed 20 lines from RunNetflix.in
+
+commit 0044aff3e65cb619f597d19c9df802603b0e0b5a
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:32:48 2015 -0500
+
+    Adding final files
+
+commit c04fdb7f155e74dacf0988059351524c6cb3dd4a
+Merge: a639e7d 545690e
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:31:38 2015 -0500
+
+    Merge branch 'master' of https://github.com/zjg95/cs373-netflix
+
+commit 545690e964ba3ffa1f344036d96bfc94e8aaea69
+Merge: e6c634d edf65e0
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 23 23:28:16 2015 -0500
+
+    Merge branch 'dev'
+
+commit a639e7d6f6006842fd7722c14a83f06fa1a49a4e
+Merge: edf65e0 e6c634d
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:28:05 2015 -0500
+
+    Merge branch 'master' of https://github.com/zjg95/cs373-netflix
+
+commit edf65e088c8a7df4dddbfa9676cdffa752159a63
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:22:16 2015 -0500
+
+    Seriously though.
+
+commit 227cda3d96754e9f292e2e69dc033cf80dc0290f
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:19:56 2015 -0500
+
+    Finally squashed Travis CI error
+
+commit 6bfc62013b4d30a3d9c16b36b52e311ce3ce5504
+Merge: b848a9a 224e9ee
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:15:27 2015 -0500
+
+    Merge branch 'dev' of https://github.com/zjg95/cs373-netflix into dev
+
+commit b848a9ad80df9f182cec8c2f29f382ee80158a12
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 23:15:12 2015 -0500
+
+    Cleaned up code
+
+commit 224e9eef3035be10623463d0c9865d77b51527ae
+Author: Zachary Goodman <zjg95@users.noreply.github.com>
+Date:   Tue Jun 23 23:12:44 2015 -0500
+
+    Delete probe.txt
+
+commit e6c634dc326e80bffb33a52ca480e1c2e1c810f8
+Author: Zachary Goodman <zjg95@users.noreply.github.com>
+Date:   Tue Jun 23 23:06:28 2015 -0500
+
+    Delete Netflix.html
+
+commit b3ad08db0c64cd0b37d1768c30c45dcf8e5589f1
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 23 23:05:22 2015 -0500
+
+    added Netflix.html
+
+commit 433407e2635c848e34c10b17d65d918041bc5aeb
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 23 23:04:00 2015 -0500
+
+    added Netflix.html. fixes #23
+
+commit 2624cd995e035b2549232298fc767eb076d31e2e
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 22:56:55 2015 -0500
+
+    removed extraneous files
+
+commit a32240231ee4bc63c07a414e2239c5144d9a8303
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 22:53:55 2015 -0500
+
+    Fixed all unit tests
+
+commit 1c5ed2b0a017d09b84bd2e31fc2114cb2021e880
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 22:41:34 2015 -0500
+
+    Attempting to fix numpy on travis ci
+
+commit 3452aa92d0df14d9f879c9ad7e5382a935467750
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 22:32:39 2015 -0500
+
+    Fixed error in tests
+
+commit debc585eae7d674ead81839b74c1f501f15e51dd
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 22:30:42 2015 -0500
+
+    Added more unit tests
+
+commit 7b87e67ba8cbb6b4c4dfc53042124084ce3861d2
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 23 22:28:42 2015 -0500
+
+    hopefully fixes #21. made files download from http
+
+commit a372be8d7d2bc3d36780029ad432cfbaacaac600
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 21:03:42 2015 -0500
+
+    added acceptance tests
+
+commit 9a4e12d0efbfde75b08b858a7baf4d0532a9d799
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 23 19:58:25 2015 -0500
+
+    adjusted tests, updated variable names
+
+commit 8019cd7b359801d53894130eade85db6c3c65760
+Author: Zach Goodman <zjg95@Decadence.local>
+Date:   Tue Jun 23 16:48:37 2015 -0500
+
+    changed comment. unable to work without ssh
+
+commit 4520f4da5b2cbed60d3f5217218b27a630b27366
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 16:25:23 2015 -0500
+
+    Bad connection at lab, pausing work
+
+commit 624abc496cc2c4782b95db5bf0a15d7bac7a46d9
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 16:24:54 2015 -0500
+
+    created .gitignore to avoid test files
+
+commit 1fc1d5307086765789905f11a9141cd29f8e54f3
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 15:46:15 2015 -0500
+
+    Wrote method to print output.  Fixes #19
+
+commit 83c4b3f25237a85f4ea73e67bbaeb8cc65f44644
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 14:00:02 2015 -0500
+
+    Fixed numpy error with makefile
+
+commit 32944ee7b918f97fdaf94d2d2393c7bbba4a6bd6
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 13:41:09 2015 -0500
+
+    added unit tests for #7
+
+commit e43946b8cdcd9941245ee9e4df62e09f076e89fd
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 13:14:08 2015 -0500
+
+    fixed user cache
+
+commit 7c27c28401349dc1de553068e5e10974436374cb
+Author: marklaver <crusherven@yahoo.com>
+Date:   Tue Jun 23 11:25:59 2015 -0500
+
+    Created netflix_read(r) function, fixes #18
+
+commit f3189e9a0e2bf3aaaa77eeedf0d16cf998313ba5
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 22 20:10:20 2015 -0500
+
+    updated tests, added rmse function
+
+commit f90b890e8e6bc69e357c821fa968d22e33625861
+Author: marklaver <crusherven@yahoo.com>
+Date:   Mon Jun 22 17:49:41 2015 -0500
+
+    Added probe solution to code
+
+commit f420cea1e83d5246fc080688a98507c5ce80532f
+Author: marklaver <crusherven@yahoo.com>
+Date:   Mon Jun 22 16:36:09 2015 -0500
+
+    Wrote methods to parse caches. Fixes #18
+
+commit 70929024163c3b8259b2b7c8ad5fdd30cfa4aa7f
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 22 11:44:27 2015 -0500
+
+    added RunNetflix.out
+
+commit 3c9a4c2042916cf9bdbcf95df6fe59364da8b79e
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sat Jun 20 11:04:59 2015 -0500
+
+    removed some collatz code
+
+commit 529084c071160498acfb21b8e8cdc3ce9cbea081
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sat Jun 20 10:59:23 2015 -0500
+
+    added another file
+
+commit 0a82dcb5b6b3a06c42652a6dd2086c71ec0db705
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sat Jun 20 10:54:20 2015 -0500
+
+    added travis.yml
+
+commit 98b2e9a49214cdc8c5c106fc9acdf19bb74d328b
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sat Jun 20 10:53:47 2015 -0500
+
+    added additional files
+
+commit 797382789f27a5f3dddb0fbc33592b4b578888ec
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Thu Jun 18 15:08:35 2015 -0500
+
+    first commit

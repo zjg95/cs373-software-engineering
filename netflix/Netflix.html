@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Netflix</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Netflix</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/v/filer4b/v38q001/mcl267/se/cs373-netflix/Netflix.py">/v/filer4b/v38q001/mcl267/se/cs373-netflix/Netflix.py</a></font></td></tr></table>
+    <p><tt>#&nbsp;---------------------------<br>
+#&nbsp;projects/netflix/Netflix.py<br>
+#&nbsp;Copyright&nbsp;(C)&nbsp;2015<br>
+#&nbsp;Glenn&nbsp;P.&nbsp;Downing<br>
+#&nbsp;---------------------------</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="json.html">json</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+</td><td width="25%" valign=top><a href="pickle.html">pickle</a><br>
+</td><td width="25%" valign=top><a href="warnings.html">warnings</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-netflix_eval"><strong>netflix_eval</strong></a>(input_dictionary)</dt><dd><tt>reads&nbsp;the&nbsp;input,&nbsp;creates&nbsp;a&nbsp;new&nbsp;dictionary&nbsp;populated&nbsp;with&nbsp;guesses<br>
+input_dictionary&nbsp;the&nbsp;dictionary&nbsp;holding&nbsp;the&nbsp;input&nbsp;values<br>
+return&nbsp;the&nbsp;dictionary&nbsp;of&nbsp;guesses</tt></dd></dl>
+ <dl><dt><a name="-netflix_print"><strong>netflix_print</strong></a>(output_stream, output_dictionary, rmse_value)</dt><dd><tt>print&nbsp;the&nbsp;guess&nbsp;dictionary&nbsp;and&nbsp;rmse<br>
+output_stream&nbsp;a&nbsp;writer<br>
+output_dictionary&nbsp;the&nbsp;dictionary&nbsp;to&nbsp;output<br>
+rmse_value&nbsp;the&nbsp;rmse&nbsp;value</tt></dd></dl>
+ <dl><dt><a name="-netflix_read"><strong>netflix_read</strong></a>(input_stream)</dt><dd><tt>read&nbsp;from&nbsp;stream,&nbsp;build&nbsp;dictionary&nbsp;object<br>
+input_stream&nbsp;the&nbsp;input<br>
+return&nbsp;a&nbsp;dictionary&nbsp;object</tt></dd></dl>
+ <dl><dt><a name="-netflix_rmse"><strong>netflix_rmse</strong></a>(actual_ratings, predicted_ratings)</dt><dd><tt>computes&nbsp;the&nbsp;root&nbsp;mean&nbsp;square&nbsp;error&nbsp;of&nbsp;two&nbsp;lists<br>
+returns&nbsp;the&nbsp;floating&nbsp;point&nbsp;value</tt></dd></dl>
+ <dl><dt><a name="-netflix_rmse_from_dictionary"><strong>netflix_rmse_from_dictionary</strong></a>(actual_ratings_dictionary, predicted_ratings_dictionary)</dt><dd><tt>convert&nbsp;two&nbsp;dictionaries&nbsp;into&nbsp;lists,&nbsp;then&nbsp;compute&nbsp;the&nbsp;rmse<br>
+actual_ratings_dictionary&nbsp;dictionary&nbsp;with&nbsp;correct&nbsp;answers<br>
+predicted_ratings_dictionary&nbsp;dictionary&nbsp;with&nbsp;predicted&nbsp;answers<br>
+return&nbsp;the&nbsp;rmse&nbsp;value&nbsp;(int/float)</tt></dd></dl>
+ <dl><dt><a name="-netflix_solve"><strong>netflix_solve</strong></a>(input_stream, output_stream)</dt><dd><tt>input_stream&nbsp;a&nbsp;reader<br>
+output_stream&nbsp;a&nbsp;writer</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>sqrt</strong> = &lt;ufunc 'sqrt'&gt;<br>
+<strong>square</strong> = &lt;ufunc 'square'&gt;<br>
+<strong>subtract</strong> = &lt;ufunc 'subtract'&gt;</td></tr></table>
+</body></html>
