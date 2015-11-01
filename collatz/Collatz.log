@@ -1,0 +1,71 @@
+commit f54446508dbba5ff9d38b71d9399ccdd31b83f6c
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 16 01:21:04 2015 -0500
+
+    added TestCollatz.out
+
+commit 7736b8faacdc0154be62ad22a756f5d4cb47736c
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 16 01:16:04 2015 -0500
+
+    added html and log
+
+commit e953c8651194d771a1f7e0a937fef459aa3d80b0
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Tue Jun 16 01:05:38 2015 -0500
+
+    added more tests, fixes #20, fixes #14
+
+commit da344142ec42670714c3dfeb640e2a300130fc14
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 15 12:44:44 2015 -0500
+
+    added more tests
+
+commit 9f22427d020f0e06d584c267de0fa17a856ea52b
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 15 12:31:38 2015 -0500
+
+    updated spherecollatz.py, accepted by sphere
+
+commit 024a520dfe86c0089918781eeb66e147f0eb595d
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Mon Jun 15 12:03:59 2015 -0500
+
+    added cache
+
+commit 9e9da625be2baff7282c7662164edb31550f9b5e
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 16:16:25 2015 -0500
+
+    sphere accepts solution. ready to implement cache
+
+commit 4b6c7710a23c763214b34b824f25744ef16661e4
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 15:21:51 2015 -0500
+
+    updated cycle calculation and tests
+
+commit cf2a0821f4e881b901ee58096629520dfc22c4de
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 14:20:10 2015 -0500
+
+    updated travis
+
+commit 867542ae758b666fff3d98be999c417b640c8977
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 14:14:41 2015 -0500
+
+    added more files
+
+commit 457528bb50e3dce5560a53512a97fbacf1c53c3e
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 14:12:02 2015 -0500
+
+    added files
+
+commit 92e8bbd6f300ff6b373ca45a76dfc6476fcc1a87
+Author: Zachary Goodman <zjg95@cs.utexas.edu>
+Date:   Sun Jun 14 13:51:45 2015 -0500
+
+    first commit
